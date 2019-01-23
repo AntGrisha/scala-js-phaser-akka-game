@@ -5,10 +5,9 @@
 Collect stars and evade meteors!
 
 ## Run the application
-```shell
-$ sbt ~re-start
-$ open http://0.0.0.0:8081
-```
+1. Run MongoDB
+2. sbt ~re-start
+3. open http://0.0.0.0:8081
 
 ## Control the dude
 ```
